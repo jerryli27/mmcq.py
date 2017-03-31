@@ -1,7 +1,8 @@
 mmcq.py -- Python implementation of Modified Median Color Quantization (MMCQ)
 ================================================================================
 
-goal of this project is write `JS implemntation MMCQ`_ in python.
+goal of this project is write `JS implemntation MMCQ`_ in python that supports processing multiple files with one
+single command. It is forked from the repo https://github.com/admire93/mmcq.py.
 
 .. _`JS implemntation MMCQ`: https://github.com/lokesh/color-thief/
 
